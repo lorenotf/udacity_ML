@@ -1,0 +1,4 @@
+*.pdf
+*.zip
+Support_files/
+**/.ipynb_checkpoints
